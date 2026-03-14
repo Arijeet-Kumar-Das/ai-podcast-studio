@@ -88,6 +88,11 @@ Media Processing Worker (FFmpeg)
       │
       ▼
 AI Processing (Transcript + Highlights)
+
+See the architecture diagrams in the docs folder.
+
+- System Architecture
+- Distributed Recording Pipeline
 ```
 
 ---
